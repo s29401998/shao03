@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
         <meta charset="utf-8" />
@@ -26,7 +26,7 @@
     <li><a class="label label-default" href="#ch8">8.高雄美食－正牌白糖粿</a><br/>    
     <li><a class="label label-default" href="#ch9">9.高雄美食－鳳邑麵線</a><br/>
     <li><a class="label label-default" href="#ch10">10.高雄美食－旗山梨大蛋中蛋</a><br/><br/><br/>
-    </h5>
+    
 
     <span id="ch1" style="color: #cc0000;">1. </span>翰品港飲-港式飲茶 
 
@@ -281,9 +281,3 @@
         鹹甜的滋味也迅速竄上舌尖，熱騰騰的吃超幸福的！<br/>
     <h4>
     <p><a class="label label-default" href="#intro">▲Top</a></p>
-</strong></h3>
-</div>
-</head>
-<body>
-</head>
-</html>
